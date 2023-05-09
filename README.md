@@ -1,10 +1,12 @@
 This is a guide to begin the microservice in order to request and receive data.
 
 Step 1: First start the microservice by executing the file gpu_api.py you can do this by typing 'python gpu_api.py' in the terminal.
-Step 2: Send an HTTP GET request by clicking the link that is provided in the terminal after running.
-Step 3: To Receive data and store it in a variable for you to use, you can run the following python call.
-Make sure you have imported the request library for you to use in the call.
 
+Step 2: Send an HTTP GET request by clicking the link that is provided in the terminal after running.
+
+Step 3: To Receive data and store it in a variable for you to use, you can run the following python call.
+
+Make sure you have imported the request library for you to use in the call.
 //start
 import requests
 def fetch_gpu_data():
