@@ -13,7 +13,6 @@ Make sure you have imported the request library for you to use in the call.
 import requests
 
 def fetch_gpu_data():
-
     response = requests.get('http://127.0.0.1:5000/api/gpu')
     
     if response.status_code == 200:
@@ -21,7 +20,6 @@ def fetch_gpu_data():
         gpu_data = response.json()
         
         return gpu_data
-        
 print(fetch_gpu_data())
 
 #end
