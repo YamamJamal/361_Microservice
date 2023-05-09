@@ -7,7 +7,7 @@ Step 2: Send an HTTP GET request by clicking the link that is provided in the te
 Step 3: To Receive data and store it in a variable for you to use, you can run the following python call.
 
 Make sure you have imported the request library for you to use in the call.
-//start
+#start
 import requests
 def fetch_gpu_data():
     response = requests.get('http://127.0.0.1:5000/api/gpu')
@@ -15,7 +15,7 @@ def fetch_gpu_data():
         gpu_data = response.json()
         return gpu_data
 print(fetch_gpu_data())
-//end
+#end
 
 Here I added the print(fetch_gpu_data for you to see the json data printed for you in the terminal).
 
