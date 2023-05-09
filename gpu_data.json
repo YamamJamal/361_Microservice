@@ -1,0 +1,19 @@
+[
+    { "name": "Radeon RX 5500 XT", "price": 199 },
+    { "name": "Radeon RX 5600 XT", "price": 299 },
+    { "name": "GTX 1660 Super", "price": 249 },
+    { "name": "GTX 1660 Ti", "price": 279 },
+    { "name": "Radeon RX 6500 XT", "price": 150 },
+    { "name": "Radeon RX 6600", "price": 230 },
+    { "name": "Intel Arc A750", "price": 250 },
+    { "name": "Intel Arc A770", "price": 350 },
+    { "name": "RTX 4060 Ti", "price": 399 },
+    { "name": "RTX 4070", "price": 499 },
+    { "name": "RTX 4080", "price": 699 },
+    { "name": "RTX 4090", "price": 1499 },
+    { "name": "Intel Arc A750", "price": 250 },
+    { "name": "Radeon RX 6500 XT", "price": 150 },
+    { "name": "Radeon RX 6600", "price": 230 },
+    { "name": "Intel Arc A750", "price": 250 }
+  ]
+  
