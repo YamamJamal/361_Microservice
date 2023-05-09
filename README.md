@@ -1,3 +1,4 @@
+Communication Contract:
 This is a guide to begin the microservice in order to request and receive data.
 
 Step 1: First start the microservice by executing the file gpu_api.py you can do this by typing 'python gpu_api.py' in the terminal.
