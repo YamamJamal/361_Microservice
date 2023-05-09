@@ -17,3 +17,4 @@ print(fetch_gpu_data())
 
 Here I added the print(fetch_gpu_data for you to see the json data printed for you in the terminal).
 
+![image](https://user-images.githubusercontent.com/102646172/236986601-b42dbecb-f7fe-4027-9b96-0ee4e95be70e.png)
